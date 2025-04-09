@@ -4,9 +4,10 @@
 # Necessary packages:
 
  - matminer
- - mdf_forge
  - matplotlib
+ - networkx
  - numpy
  - pandas
  - torch
  - ase
+ - pymatgen
