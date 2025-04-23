@@ -9,5 +9,7 @@
  - numpy
  - pandas
  - torch
+ - torch_scatter
  - ase
  - pymatgen
+ - mace-torch
